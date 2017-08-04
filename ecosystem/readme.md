@@ -103,6 +103,7 @@ Submit yours by creating a pull request.
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [feathers-waterline](https://www.npmjs.com/package/feathers-waterline)
+- [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - NextQL(Equivalent GraphQL but much more simple) plugin for feathers
 
 
 ## Documentation
